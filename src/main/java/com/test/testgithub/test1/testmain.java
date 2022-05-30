@@ -10,5 +10,9 @@ package com.test.testgithub.test1;
 public class testmain {
     public static void main(String[] args) {
         System.out.println("hello world!!");
+        System.out.println("hello world!!-location");
+        System.out.println("hello world!!-location");
+        System.out.println("hello world!!-location");
+        System.out.println("hello world!!-location");
     }
 }
